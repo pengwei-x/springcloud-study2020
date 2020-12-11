@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-consumer7001" />
+        <module name="springcloud-config-center7777" />
+        <module name="springcloud-provider9001" />
+        <module name="springcloud-eureka-server6002" />
+        <module name="springcloud-eureka-server6001" />
+        <module name="springcloud-provider9001 (1)" />
+        <module name="springcloud-config-server7777" />
+        <module name="spring-cloud-config-client7755" />
+        <module name="springcloud-nacos-config8811" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-eureka-server7001" target="1.5" />
+      <module name="spring-cloud-config-client7755" target="1.8" />
+      <module name="springcloud-config-center7777" target="1.8" />
+      <module name="springcloud-config-server7777" target="1.8" />
+      <module name="springcloud-consumer7001" target="1.8" />
+      <module name="springcloud-eureka-server6001" target="1.8" />
+      <module name="springcloud-eureka-server6002" target="1.8" />
+      <module name="springcloud-nacos-config8811" target="1.8" />
+      <module name="springcloud-provider9001" target="1.8" />
+      <module name="springcloud-provider9001 (1)" target="1.8" />
+      <module name="springcloud-study2020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

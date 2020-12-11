@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client7755/spring-cloud-config-client7755.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client7755/spring-cloud-config-client7755.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-center7777/springcloud-config-server7777.iml" filepath="$PROJECT_DIR$/springcloud-config-center7777/springcloud-config-server7777.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer7001/springcloud-consumer7001.iml" filepath="$PROJECT_DIR$/springcloud-consumer7001/springcloud-consumer7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server6001/springcloud-eureka-server6001.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server6001/springcloud-eureka-server6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server6002/springcloud-eureka-server6002.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server6002/springcloud-eureka-server6002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-nacos-config8811/springcloud-nacos-config8811.iml" filepath="$PROJECT_DIR$/springcloud-nacos-config8811/springcloud-nacos-config8811.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider9001/springcloud-provider9001.iml" filepath="$PROJECT_DIR$/springcloud-provider9001/springcloud-provider9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider9002/springcloud-provider9001 (1).iml" filepath="$PROJECT_DIR$/springcloud-provider9002/springcloud-provider9001 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-study2020.iml" filepath="$PROJECT_DIR$/.idea/springcloud-study2020.iml" />
+    </modules>
+  </component>
+</project>
