@@ -15,9 +15,11 @@
         <module>springcloud-eureka-server6002</module>
         <module>springcloud-consumer7001</module>
         <module>springcloud-provider9001</module>
-        <module>springcloud-config-server7777</module>
+        <module>springcloud-config-center7777</module>
         <module>spring-cloud-config-client7755</module>
         <module>springcloud-nacos-config8811</module>
+        <module>springcloud-consumer-feign8000</module>
+        <module>mybatis-project</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->

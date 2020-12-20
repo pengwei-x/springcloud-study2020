@@ -9,19 +9,18 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>springcloud-nacos-config8811</artifactId>
-
+    <artifactId>springcloud-consumer-feign8000</artifactId>
     <dependencies>
+        <!--openfeign-->
         <dependency>
-            <groupId>com.alibaba.cloud</groupId>
-            <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
+        <!--eureka-client-->
         <dependency>
-            <groupId>com.alibaba.cloud</groupId>
-            <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
-
-
         <!--boot web actuator-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -52,6 +51,5 @@
             <artifactId>junit</artifactId>
         </dependency>
     </dependencies>
-
 
 </project>

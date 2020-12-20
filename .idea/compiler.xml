@@ -7,21 +7,25 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-consumer7001" />
+        <module name="springcloud-consumer-feign8000" />
         <module name="springcloud-config-center7777" />
-        <module name="springcloud-provider9001" />
+        <module name="mybatis-project" />
         <module name="springcloud-eureka-server6002" />
         <module name="springcloud-eureka-server6001" />
         <module name="springcloud-provider9001 (1)" />
-        <module name="springcloud-config-server7777" />
+        <module name="springcloud-provider9001" />
         <module name="spring-cloud-config-client7755" />
+        <module name="springcloud-config-server7777" />
         <module name="springcloud-nacos-config8811" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-eureka-server7001" target="1.5" />
+      <module name="mybatis-project" target="1.8" />
       <module name="spring-cloud-config-client7755" target="1.8" />
       <module name="springcloud-config-center7777" target="1.8" />
       <module name="springcloud-config-server7777" target="1.8" />
+      <module name="springcloud-consumer-feign8000" target="1.8" />
       <module name="springcloud-consumer7001" target="1.8" />
       <module name="springcloud-eureka-server6001" target="1.8" />
       <module name="springcloud-eureka-server6002" target="1.8" />

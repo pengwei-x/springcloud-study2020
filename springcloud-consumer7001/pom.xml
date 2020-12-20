@@ -11,7 +11,7 @@
 
     <artifactId>springcloud-consumer7001</artifactId>
     <dependencies>
-        <!--eureka-server-->
+        <!--eureka-client-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>

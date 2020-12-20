@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-project/mybatis-project.iml" filepath="$PROJECT_DIR$/mybatis-project/mybatis-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client7755/spring-cloud-config-client7755.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client7755/spring-cloud-config-client7755.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-config-center7777/springcloud-config-server7777.iml" filepath="$PROJECT_DIR$/springcloud-config-center7777/springcloud-config-server7777.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-feign8000/springcloud-consumer-feign8000.iml" filepath="$PROJECT_DIR$/springcloud-consumer-feign8000/springcloud-consumer-feign8000.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-consumer7001/springcloud-consumer7001.iml" filepath="$PROJECT_DIR$/springcloud-consumer7001/springcloud-consumer7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server6001/springcloud-eureka-server6001.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server6001/springcloud-eureka-server6001.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server6002/springcloud-eureka-server6002.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server6002/springcloud-eureka-server6002.iml" />
